@@ -252,7 +252,7 @@ body {
   }
 
   .diasDelCalendario div.curr-date {
-    background-color: var(--blue);
+    background-color: #9bc4bc;
     color: var(--white);
     border-radius: 50%;
   }
