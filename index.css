@@ -17,6 +17,10 @@
     --shadow: rgba(100,100,111,0.2) 0px 7px  29px 0px;
 }
 
+.calendar-day-hover {
+  background-color: #c3c2c8;
+}
+
 .dark { 
     --bg-body: var(--dark-body);
     --bg-main: var(--dark-main);
@@ -250,7 +254,7 @@ body {
   .diasDelCalendario div.curr-date {
     background-color: var(--blue);
     color: var(--white);
-  border-radius: 50%;
+    border-radius: 50%;
   }
 
   .diasDelCalendario div.curr-date span { 
